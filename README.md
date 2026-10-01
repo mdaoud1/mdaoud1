@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohammad</h1>
 
 <p align="center">
-  <b>Electrical &amp; Computer Engineer</b> · Submarine propulsion systems by day, embedded &amp; mobile software on the side
+  <b>Electrical &amp; Computer Engineer</b> 
 </p>
 
 <p align="center">
