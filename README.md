@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Mohammad</h1>
 
 <p align="center">
-  <b>Electrical &amp; Computer Engineer</b> 
+  <b>Electrical &amp; Computer Engineer</b><br>
+  Actively seeking Software Engineering roles
 </p>
 
 <p align="center">
