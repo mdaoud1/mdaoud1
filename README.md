@@ -30,7 +30,7 @@ A low-cost smart coaster that detects every sip and sends it to an Android app. 
 - **What I built:** the Android UI, the gamification layer (streaks, achievements, milestone notifications) and the settings page
 - **Stack:** Kotlin · Jetpack Compose · Python · Raspberry Pi · Bluetooth
 
-### Landlord Mobile Application
+### Summit: Landlord Mobile Application
 
 A mobile app for a 100+ unit rental portfolio. I led a student development team across backend, frontend and secure authentication.
 
