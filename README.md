@@ -30,7 +30,7 @@ A low-cost smart coaster that detects every sip and sends it to an Android app. 
 - **What I built:** the Android UI, the gamification layer (streaks, achievements, milestone notifications) and the settings page
 - **Stack:** Kotlin · Jetpack Compose · Python · Raspberry Pi · Bluetooth
 
-### [Summit · Secure Tenant Portal](https://github.com/mdaoud1/Secure-Tenant-Portal) · Property management platform
+### [Summit](https://github.com/mdaoud1/Secure-Tenant-Portal) · Secure Tenant Portal
 
 A resident and property-manager portal for a 100+ unit rental portfolio, built by a student team for a real client (NMSU senior project).
 
