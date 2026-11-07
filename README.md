@@ -30,9 +30,12 @@ A low-cost smart coaster that detects every sip and sends it to an Android app. 
 - **What I built:** the Android UI, the gamification layer (streaks, achievements, milestone notifications) and the settings page
 - **Stack:** Kotlin · Jetpack Compose · Python · Raspberry Pi · Bluetooth
 
-### Summit · Landlord Mobile Application
+### [Summit · Secure Tenant Portal](https://github.com/mdaoud1/Secure-Tenant-Portal) · Property management platform
 
-A mobile app for a 100+ unit rental portfolio. I led a student development team across backend, frontend and secure authentication.
+A resident and property-manager portal for a 100+ unit rental portfolio, built by a student team for a real client (NMSU senior project).
+
+- **What I did:** project manager and forward-deployed engineer. I mentored the student developers, answered technical questions, helped organize their time, and served as the bridge between the client and the team, aligning expectations both ways
+- **Stack:** React · TypeScript · Express · PostgreSQL · Plaid
 
 ## Tech stack
 
